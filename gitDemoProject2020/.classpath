@@ -25,5 +25,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+=======
+>>>>>>> c76b81c8fc85b989a33c5325c5587ec289567f2b
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
