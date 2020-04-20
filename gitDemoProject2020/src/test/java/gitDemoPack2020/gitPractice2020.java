@@ -33,4 +33,14 @@ public class gitPractice2020 {
 		System.out.println("CODE FROM DEVBRANCH1");
 		System.out.println("CODE FROM DEVBRANCH1");
 	}
+	
+	@Test
+	public void gitPrac2023() {
+		System.out.println("DEVBRANCH1MASTER");
+		System.out.println("CODE FROM DEVBRANCH1MASTER");
+		System.out.println("CODE FROM DEVBRANCH1MASTER");
+		System.out.println("CODE FROM DEVBRANCH1MASTER");
+		System.out.println("CODE FROM DEVBRANCH1MASTER");
+		System.out.println("CODE FROM DEVBRANCH1MASTER");
+	}
 }
