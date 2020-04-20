@@ -9,4 +9,9 @@ public class gitPractice2020 {
 		System.out.println("ORIGINAL");
 		System.out.println("CREATING MERGE CONFLICT FROM MASTER");
 	}
+	
+	@Test
+	public void gitPrac20211() {
+		System.out.println("NEWBRANCHCONFLICT");
+	}
 }
