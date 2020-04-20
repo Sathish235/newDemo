@@ -23,4 +23,14 @@ public class gitPractice2020 {
 		System.out.println("CODE FROM GITBRANCH1");
 		System.out.println("CODE FROM GITBRANCH1");
 	}
+	
+	@Test
+	public void gitPrac2022() {
+		System.out.println("DEVBRANCH1");
+		System.out.println("CODE FROM DEVBRANCH1");
+		System.out.println("CODE FROM DEVBRANCH1");
+		System.out.println("CODE FROM DEVBRANCH1");
+		System.out.println("CODE FROM DEVBRANCH1");
+		System.out.println("CODE FROM DEVBRANCH1");
+	}
 }
