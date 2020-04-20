@@ -28,4 +28,9 @@ public class gitPractice2020 {
 	public void gitPrac2022() {
 		System.out.println("PUSH FROM GIT BRANCH to newdevBranch");
 	}
+	
+	@Test
+	public void git2020() {
+		System.out.println("FINAL COMMIT FROM MASTER BRANCH");
+	}
 }
