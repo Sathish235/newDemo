@@ -23,4 +23,9 @@ public class gitPractice2020 {
 		System.out.println("CODE FROM newdevBranch");
 		System.out.println("CODE FROM newdevBranch");
 	}
+	
+	@Test
+	public void gitPrac2022() {
+		System.out.println("PUSH FROM GIT BRANCH to newdevBranch");
+	}
 }
