@@ -8,5 +8,9 @@ public class gitPractice2020 {
 	public void gitPrac2020() {
 		System.out.println("ORIGINAL");
 		System.out.println("CODE FROM BRANCH");
+		System.out.println("CODE FROM GITBRANCH");
+		System.out.println("CODE FROM GITBRANCH");
+		System.out.println("CODE FROM GITBRANCH");
+		System.out.println("CODE FROM GITBRANCH");
 	}
 }
